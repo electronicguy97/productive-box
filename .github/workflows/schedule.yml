@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.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}}
-          GIST_ID: ${{ secrets.https://gist.github.com/electronicguy97/}}
+          GIST_ID: ${{ secrets.electronicguy97}}
           TIMEZONE: Asia/Seoul
